@@ -30,6 +30,7 @@ Performance Reviews: Refine performance evaluation processes.
 Setup Instructions
 Install dependencies:
  pip install pandas numpy matplotlib seaborn
+POSTGRESQL LATEST VERSION
 
 Load data into Python using pandas.read_csv() or pandas.read_sql().
 
