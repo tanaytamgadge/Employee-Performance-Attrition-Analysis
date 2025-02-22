@@ -17,7 +17,6 @@ This Power BI project provides a detailed analysis of employee attrition, helpin
 - 📅 **Performance Reports** - Employee evaluations and productivity metrics.
 
 ## 🛠 Technologies Used
-- **Power BI** - Interactive data visualization and dashboards.
 - **SQL** - Data extraction and transformation from relational databases.
 - **Excel & CSV Files** - Preprocessing and dataset structuring.
 
